@@ -2,7 +2,7 @@
 
 This project is a complete IoT-based mobile crash detection system that leverages edge ML inference, real-time sensor data, and cloud integration for emergency alerts.
 Link to the sourse folder - https://drive.google.com/drive/folders/1HBprd9kxk7fffiXcAHNE0s__2WMaYuN3?usp=sharing
-
+Link to the Youtube Demo - https://youtu.be/GnSXoPS2Vqo
 ## Overview
 
 The application uses accelerometer and gyroscope data to detect real-world car crashes, distinguish them from typical phone drops, and send alerts via SMS to registered emergency contacts using Firebase Cloud Functions and Twilio.
