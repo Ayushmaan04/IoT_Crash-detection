@@ -1,4 +1,4 @@
-# IoT Crash Detection App
+![image](https://github.com/user-attachments/assets/15492f5b-ffc3-450c-95de-83768bcb62f2)# IoT Crash Detection App
 
 This project is a complete IoT-based mobile crash detection system that leverages edge ML inference, real-time sensor data, and cloud integration for emergency alerts.
 
@@ -35,6 +35,8 @@ The application uses accelerometer and gyroscope data to detect real-world car c
   - accel_magnitude
   - motion_energy (rolling sum over recent window)
 - Inference done using TensorFlow Lite on Android device
+- ### Model Evaluation – Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
 - A decision threshold is applied to determine probable crash events
 
 ## Crash Response Loop
