@@ -26,7 +26,7 @@ The application uses accelerometer and gyroscope data to detect real-world car c
 - Data normalized and used to train a crash classifier model
 
 ### Stage 2: Fall Detection Dataset
-- **MobiFall Dataset v2.0** (publicly available) used to train a separate fall detection model
+- **MobiFall Dataset v2.0** ([publicly available](https://www.kaggle.com/datasets/kmknation/mobifall-dataset-v20)) used to train a separate fall detection model
 - Ensures that phone drops are not misclassified as vehicular crashes
 
 ### Stage 3: On-device Inference
