@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/15492f5b-ffc3-450c-95de-83768bcb62f2)# IoT Crash Detection App
+# IoT Crash Detection App
 
 This project is a complete IoT-based mobile crash detection system that leverages edge ML inference, real-time sensor data, and cloud integration for emergency alerts.
 
